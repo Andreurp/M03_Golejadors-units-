@@ -15,7 +15,7 @@ import org.xml.sax.SAXException;
  */
 public class App 
 {
-	private static String[] FITXER = {"/golejador.xml"};
+	private static String[] FITXER = {"/golejadors.xml"};
 	
     public static void main( String[] args ) throws ParserConfigurationException, SAXException, IOException
     {
